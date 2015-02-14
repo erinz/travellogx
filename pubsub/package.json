@@ -1,0 +1,16 @@
+{
+  "name": "travel_pubsub",
+  "version": "0.0.0",
+  "description": "pubsub server for travel planner app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuling",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^0.12.1",
+    "express": "^3.0.0",
+    "underscore": "^1.7.0"
+  }
+}

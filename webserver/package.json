@@ -1,0 +1,14 @@
+{
+  "name": "travel_planner",
+  "version": "0.0.0",
+  "description": "UI for travel planner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuling",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
